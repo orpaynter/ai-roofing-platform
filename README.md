@@ -28,5 +28,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
  ## Contact
-   If you have any questions or need further assistance, please contact [oliver@oliverContracting.com](mailto:oliver@oliverContracting.com).
+   If you have any questions or need further assistance, please contact [Oliver@OliversContracting.com](mailto:oliver@oliverContracting.com).
 ```
