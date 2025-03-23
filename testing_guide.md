@@ -125,8 +125,8 @@ Use the following test data for your testing:
 
 ### Project Tracker
 - Test login with provided test credentials:
-  - Project ID: TEST123
-  - Email: test@example.com
+  - Project ID: ADMIN
+  - Email: oliver@oliverscontracting.com
 - Test different tabs and features
 
 ## Reporting Issues
